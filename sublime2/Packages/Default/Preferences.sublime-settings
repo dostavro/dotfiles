@@ -197,7 +197,7 @@
     "tab_completion": true,
 
     // Enable auto complete to be triggered automatically when typing.
-    "auto_complete": false,
+    "auto_complete": true,
 
     // The maximum file size where auto complete will be automatically triggered.
     "auto_complete_size_limit": 4194304,

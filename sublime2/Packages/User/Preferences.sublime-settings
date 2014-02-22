@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/User/Monokai-Extended.tmTheme",
+	"font_size": 12.0,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+  "auto_complete_commit_on_tab": true
+}
