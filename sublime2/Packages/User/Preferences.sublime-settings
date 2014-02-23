@@ -1,9 +1,23 @@
 {
+	"auto_complete_commit_on_tab": true,
 	"color_scheme": "Packages/User/Monokai-Extended.tmTheme",
 	"font_size": 12.0,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-  "auto_complete_commit_on_tab": true
+
+  // Columns in which to display vertical rulers
+  "rulers": [100],
+
+  // The number of spaces a tab is considered equal to
+  "tab_size": 2,
+
+  // Set to true to insert spaces when tab is pressed
+  "translate_tabs_to_spaces": true,
+
+  // Set to true to removing trailing white space on save
+  "trim_trailing_white_space_on_save": true,
+
+  // Set to true to ensure the last line of the file ends in a newline
+  // character when saving
+  "ensure_newline_at_eof_on_save": true,
+
+  "ignored_packages": [ ]
 }
